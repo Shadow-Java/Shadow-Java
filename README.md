@@ -43,9 +43,12 @@ I am a Final Year Computer Engineering Student at College of Engineering Chengan
 
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
-```text
-Java      4 hrs 32 mins       █████████░░░░░░░░░░░░░░░░   35.69 
-HTML/CSS    2 hrs 50 mins       █████░░░░░░░░░░░░░░░░░░░░   22.32 
-Vue  1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   9.17 
-Dart        1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   8.61 
+
+- uses: Shadow-Java/README.md@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          SHOW_TITLE: true
+ 
+<!--END_SECTION:waka-->
 

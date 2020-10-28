@@ -13,11 +13,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img  align='right' height="150" src="https://github.com/Shadow-Java/Shadow-Java/image/img_rain_1.gif?raw=true">
+  
+## 👋 Welcome to Shadow Java's Github !  <image src="">
+ 
+[![csdn](https://img.shields.io/badge/-csdn-c14438?style=flat-square&logo=c&logoColor=white)](https://blog.csdn.net/liyuanbo1997)
 
-  
-### 👋 Welcome to Shadow Java's Github ! 
-  
 :heart: Programming | :black_heart: K-pop | :blue_heart: Anime
+
+<center>
+<img align='center'  src="https://source.unsplash.com/random/1200x600">
+</center>
   
 I am a Final Year Computer Engineering Student at College of Engineering Chengannur. I love Machine Learning and trying to find more about Full Stack Web Development and Cyber Security. 
 

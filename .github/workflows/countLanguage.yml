@@ -1,7 +1,4 @@
-# This is a basic workflow to help you get started with Actions
-
 name: update my language
-
 
 on:
   workflow_dispatch:
@@ -10,7 +7,6 @@ on:
     - cron: "30 * * * *"
 
 
-# A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
   update-readme:
     name: Update Readme with Metrics
@@ -19,5 +15,4 @@ jobs:
       - uses: Shadow-Java/README@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
           SHOW_TITLE:   true

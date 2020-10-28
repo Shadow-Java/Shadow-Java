@@ -48,7 +48,7 @@ I am a Final Year Computer Engineering Student at College of Engineering Chengan
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          SHOW_TITLE: true
+          SHOW_TITLE:   true
  
 <!--END_SECTION:waka-->
 

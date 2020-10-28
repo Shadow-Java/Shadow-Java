@@ -43,7 +43,7 @@ I am a Final Year Computer Engineering Student at College of Engineering Chengan
   
 .    
    
-![Shadow Java's GitHub Stats](https://github-readme-stats.vercel.app/api?username=liyuanbo1997=["stars"]&show_icons=true)
+![Shadow Java's GitHub Stats](https://github-readme-stats.vercel.app/api?username=liyuanbo1997&&hide==["stars"]&show_icons=true)
 
 -------
 

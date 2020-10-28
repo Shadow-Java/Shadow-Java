@@ -1,5 +1,5 @@
 
-<img  align='right' height="150" src="https://github.com/Shadow-Java/Shadow-Java/image/img_rain_1.gif?raw=true">
+<img  align='right' height="150" src="https://github.com/Shadow-Java/Shadow-Java/blob/main/image/img_rain_1.gif?raw=true">
 
   
 ## 👋 Welcome to Shadow Java's Github !  

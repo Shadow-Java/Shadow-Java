@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
   
   
-### 👋 Welcome to Shadow Java's Github !  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+### 👋 Welcome to Shadow Java's Github ! 
   
 :heart: Programming | :black_heart: K-pop | :blue_heart: Anime
   

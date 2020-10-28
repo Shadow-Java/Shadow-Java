@@ -43,15 +43,15 @@ I am a Final Year Computer Engineering Student at College of Engineering Chengan
   
 .    
    
-![Shadow Java's GitHub Stats](https://github-readme-stats.vercel.app/api?username=liyuanbo1997&&hide==["stars"]&show_icons=true)
+![Shadow Java's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shadow-Java&&hide==["stars"]&show_icons=true)
 
 -------
 
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
 ```text
-Python      4 hrs 32 mins       █████████░░░░░░░░░░░░░░░░   35.69 
+Java      4 hrs 32 mins       █████████░░░░░░░░░░░░░░░░   35.69 
 HTML/CSS    2 hrs 50 mins       █████░░░░░░░░░░░░░░░░░░░░   22.32 
-Javascript  1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   9.17 
+Vue  1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   9.17 
 Dart        1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   8.61 
 

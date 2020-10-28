@@ -14,12 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center">
-  <img src="https://github.com/Amchuz/Amchuz/blob/master/Amchuz.gif">
-</p>
-  
-
-  
   
 ### 👋 Welcome to Shadow Java's Github ! 
   

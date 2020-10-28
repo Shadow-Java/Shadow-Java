@@ -44,5 +44,6 @@ I am a Final Year Computer Engineering Student at College of Engineering Chengan
 📊 **Weekly development breakdown**
 
 <!--START_SECTION:waka-->
+
 <!--END_SECTION:waka-->
 

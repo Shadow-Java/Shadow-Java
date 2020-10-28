@@ -6,13 +6,13 @@
  
 [![csdn](https://img.shields.io/badge/-csdn-c14438?style=flat-square&logo=c&logoColor=white)](https://blog.csdn.net/liyuanbo1997)
 
-:heart: Programming | :black_heart: K-pop | :blue_heart: Anime
+:heart: Keep Posting | :black_heart: Popping | :blue_heart: Learning
 
 <center>
 <img align='center'  src="https://source.unsplash.com/user/erondu/1200x600">
 </center>
   
-I am a Final Year Computer Engineering Student at College of Engineering Chengannur. I love Machine Learning and trying to find more about Full Stack Web Development and Cyber Security. 
+hello everybody,I am a working people which is a Java Engineer. I am trying something new to conquer myself,learning Java and vue. I falling in love with Popping and game.
 
 - 🔭 I’m currently working on Sign Language Translator to Malayalam Application using Flutter and Python.
 - 🌱 I’m currently learning Data Science | Full Stack Web development | App Development | NLP | Cyber Security
@@ -21,8 +21,6 @@ I am a Final Year Computer Engineering Student at College of Engineering Chengan
 - ⚡ Quote: There is always time. You just have to find it.
 - 📫 How to reach me:
 
-| [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/github.png" alt="github logo" width="34">](https://github.com/Amchuz) |  [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/dev.png" alt="dev logo" width="24">](https://dev.to/amchuz) |  [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/twitter.png" alt="twitter logo" width="34">](https://twitter.com/PrifyPhilip) |  [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/gitlab.png" alt="gitlab logo" width="24">](https://gitlab.com/Amchuz) |  [<img src="https://github.com/Amchuz/Amchuz/blob/master/linkedin.jpeg" alt="linkedin logo" width="24">](https://www.linkedin.com/in/prify-philip-343b53150/) |  [<img src="https://github.com/Amchuz/Amchuz/blob/master/gmail.jpeg" alt="gmail logo" width="24">](amchu1714@gmail.com)
-|---|---|---|---|---|---|
 
 ----
 

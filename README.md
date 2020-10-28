@@ -44,7 +44,7 @@ I am a Final Year Computer Engineering Student at College of Engineering Chengan
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
 
-- uses: Shadow-Java/README.md@master
+- uses: Shadow-Java/README@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}

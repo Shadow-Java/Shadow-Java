@@ -36,7 +36,13 @@ hello everybody,I am a working people which is a Java Engineer. I am trying some
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 21 October, 2020 - 28 October, 2020
+
+Vue.js       1 hr 59 mins    █████████████░░░░░░░░░░░░   51.78 % 
+Markdown     1 hr 17 mins    ████████▒░░░░░░░░░░░░░░░░   33.34 % 
+Java         19 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 % 
+YAML         7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
+JavaScript   5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.45 % 
 ```
 <!--END_SECTION:waka-->
 

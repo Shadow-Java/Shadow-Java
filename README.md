@@ -36,7 +36,7 @@ hello everybody,I am a working people which is a Java Engineer. I am trying some
 
 <!--START_SECTION:waka-->
 ```text
-Week: 23 October, 2020 - 30 October, 2020
+Week: 24 October, 2020 - 31 October, 2020
 
 Vue.js       6 hrs 34 mins   ████████████████▒░░░░░░░░   65.07 % 
 Markdown     1 hr 27 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.50 % 

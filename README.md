@@ -14,12 +14,12 @@
   
 hello everybody,I am a working people which is a Java Engineer. I am trying something new to conquer myself,learning Java and vue. I falling in love with Popping and game.
 
-- 🔭 I’m currently working on Sign Language Translator to Malayalam Application using Flutter and Python.
-- 🌱 I’m currently learning Data Science | Full Stack Web development | App Development | NLP | Cyber Security
+- 🔭 I’m currently working on Company using Java.
+- 🌱 I’m currently writing a blog and doing algorithm
 - 👯 I’m looking to collaborate on Machine Learning and Web Development Projects <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 💬 Ask me about anything. I will try to help you as much as I can.
 - ⚡ Quote: There is always time. You just have to find it.
-- 📫 How to reach me:
+
 
 
 ----

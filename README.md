@@ -1,5 +1,5 @@
 
-<img  align='right' height="150" src="https://github.com/Shadow-Java/Shadow-Java/blob/main/image/img_rain_1.gif?raw=true">
+<img  align='right' height="150" src="https://media.giphy.com/media/15olIOnCASbpS/giphy.gif?raw=true">
 
   
 ## 👋 Welcome to Shadow Java's Github !  
@@ -24,7 +24,7 @@ hello everybody,I am a working people which is a Java Engineer. I am trying some
 
 ----
 
-### :panda_face: ToDo List  <img src="https://giphy.com/gifs/skeleton-halloween-piano-15olIOnCASbpS" width="30">
+### :panda_face: ToDo List  <img src="https://github.com/Shadow-Java/Shadow-Java/blob/main/image/img_rain_1.gif" width="50">
 
 - [x] Visual Interface based on RabbitMq Tool
 

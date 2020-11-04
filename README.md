@@ -24,6 +24,16 @@ hello everybody,I am a working people which is a Java Engineer. I am trying some
 
 ----
 
+### ToDo List
+
+- [x] Visual Interface based on RabbitMq Tool
+
+   - [ ] Visual Interface based on Project Requirements 
+   - [ ] Spring Cloud Platform
+   
+ - [ ] A Blog about Java Or Computer network
+ - [X] A Daily Algorithm
+
 #### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> How about some stats ?
   
 .    

@@ -46,11 +46,11 @@ hello everybody,I am a working people which is a Java Engineer. I am trying some
 
 <!--START_SECTION:waka-->
 ```text
-Week: 06 November, 2020 - 13 November, 2020
+Week: 07 November, 2020 - 14 November, 2020
 
-Java         2 hrs 31 mins   █████████████████▓░░░░░░░   70.42 % 
-Markdown     40 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.78 % 
-Vue.js       23 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.68 % 
+Java         2 hrs 6 mins    █████████████████░░░░░░░░   67.59 % 
+Markdown     37 mins         █████░░░░░░░░░░░░░░░░░░░░   20.08 % 
+Vue.js       23 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.33 % 
 ```
 <!--END_SECTION:waka-->
 

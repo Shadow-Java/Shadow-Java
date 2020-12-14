@@ -46,10 +46,10 @@ hello everybody,I am a working people which is a Java Engineer. I am trying some
 
 <!--START_SECTION:waka-->
 ```text
-Week: 05 December, 2020 - 12 December, 2020
+Week: 06 December, 2020 - 13 December, 2020
 
-Java       15 mins         ██████████████████▓░░░░░░   74.73 % 
-Markdown   5 mins          ██████▒░░░░░░░░░░░░░░░░░░   25.04 % 
+Java       10 mins         ███████████████████░░░░░░   75.40 % 
+Markdown   3 mins          ██████░░░░░░░░░░░░░░░░░░░   24.60 % 
 ```
 <!--END_SECTION:waka-->
 

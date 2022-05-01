@@ -38,10 +38,7 @@ hello everybody,welcome to my personal blog mainly recording what i learned，wo
 
 📊 **Weekly development breakdown**
 
-<!--START_SECTION:waka-->
-
-```text
-No Activity tracked this Week
-```
-
-<!--END_SECTION:waka-->
+<img
+src="https://github.com/avinal/avinal/blob/main/images/stat.svg"
+alt="Avinal WakaTime Activity"
+/>

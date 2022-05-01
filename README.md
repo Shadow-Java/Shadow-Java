@@ -20,7 +20,7 @@ hello everybody,welcome to my personal blog mainly recording what i learned，wo
 
 ---
 
-### :panda_face: ToDo List  <img src="https://github.com/Shadow-Java/Shadow-Java/blob/main/image/img_rain_1.gif" width="50">
+### :panda_face: ToDo List  <img src="https://github.com/Shadow-Java/Shadow-Java/blob/main/images/img_rain_1.gif" width="50">
 
 - [X]  Java Source Code
 

@@ -12,8 +12,8 @@
 
 hello everybody,welcome to my personal blog mainly recording what i learned，work together to achieve your goals.
 
-- 🔭 Break through algorithm bottleneck and accumulate technology.
-- 🌱 Pay attention to the foundation,Continuously consolidate experience.
+- 🔭 Break through algorithm bottleneck and accumulate technology. <img src="https://media.giphy.com/media/wHB67Zkr63UP7RWJsj/giphy.gif" width="30">
+- 🌱 Pay attention to the foundation,Continuously consolidate experience. <img src="https://media.giphy.com/media/lT4N7JiPGATIhVwR91/giphy.gif" width="30">
 - 👯 Always on the move for reaching my own goals. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 💬 Ask me about anything. I will try to help you as much as I can.
 - ⚡ Quote: There is always time. You just have to find it.

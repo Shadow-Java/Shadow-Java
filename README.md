@@ -30,6 +30,8 @@ hello everybody,welcome to my personal blog mainly recording what i learned，wo
 - [X]  A Daily Algorithm
 - [ ]  左神算法视频
 
+---
+
 #### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> How about some stats ?
 
 ![Shadow Java's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shadow-Java&&hide==["stars"]&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
@@ -37,5 +39,5 @@ hello everybody,welcome to my personal blog mainly recording what i learned，wo
 ---
 
 
-<img src="https://github.com/Shadow-Java/Shadow-Java/blob/main/images/stat.svg" alt="Avinal WakaTime Activity" align=center/>
+<img src="https://github.com/Shadow-Java/Shadow-Java/blob/main/image/stat.svg" alt="Avinal WakaTime Activity" align=center/>
 

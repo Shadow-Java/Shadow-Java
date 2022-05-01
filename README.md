@@ -36,9 +36,6 @@ hello everybody,welcome to my personal blog mainly recording what i learned，wo
 
 ---
 
-📊 **Weekly development breakdown**
 
-<img
-src="https://github.com/avinal/avinal/blob/main/images/stat.svg"
-alt="Avinal WakaTime Activity"
-/>
+<img src="https://github.com/Shadow-Java/Shadow-Java/blob/main/images/stat.svg" alt="Avinal WakaTime Activity" align=center/>
+

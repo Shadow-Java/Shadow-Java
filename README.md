@@ -39,5 +39,5 @@ hello everybody,welcome to my personal blog mainly recording what i learned，wo
 ---
 
 
-<img src="https://github.com/Shadow-Java/Shadow-Java/blob/main/image/stat.svg" alt="Avinal WakaTime Activity" align=center/>
+<img src="https://github.com/Shadow-Java/Shadow-Java/blob/main/images/stat.svg" alt="Avinal WakaTime Activity" align=center/>
 

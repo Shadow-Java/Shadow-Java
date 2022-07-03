@@ -20,15 +20,22 @@ hello everybody,welcome to my personal blog mainly recording what i learned，wo
 
 ---
 
-### :panda_face: ToDo List  <img src="https://github.com/Shadow-Java/Shadow-Java/blob/main/images/img_rain_1.gif" width="50">
+### :panda_face: 7.1-8.1 ToDo List  <img src="https://github.com/Shadow-Java/Shadow-Java/blob/main/images/img_rain_1.gif" width="50">
 
-- [X]  Java Source Code
+- [X]  书籍
 
-  - [ ]  java util包源码解读
-  - [ ]  Spring源码
-- [ ]  A Blog about Java Or Computer network
-- [X]  A Daily Algorithm
-- [ ]  左神算法视频
+  - [X]  JVM进度90%
+    - [ ]  第4章虚拟机性能监控
+    - [ ]  第9章类加载及执行子系统的案例与实战
+    - [ ]  第10章早期编译优化
+    - [ ]  第11章晚期编译优化
+    - [ ]  Java Senior Enginer项目中JVM总结
+  - [ ]  Java高并发第二次阅读
+    - [ ]  Java高并发第二次阅读
+
+- [ ]  左神算法总结
+  - [X]  排序算法（插入、冒泡、选择）
+  - [ ]  左神第二组算法
 
 ---
 
@@ -38,6 +45,4 @@ hello everybody,welcome to my personal blog mainly recording what i learned，wo
 
 ---
 
-
 <img src="https://github.com/Shadow-Java/Shadow-Java/blob/main/images/stat.svg" alt="Avinal WakaTime Activity" align=center/>
-

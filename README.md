@@ -25,13 +25,10 @@ hello everybody,welcome to my personal blog mainly recording what i learned，wo
 - [X]  书籍
 
   - [X]  JVM进度90%
+
     - [ ]  第4章虚拟机性能监控
     - [ ]  第9章类加载及执行子系统的案例与实战
     - [ ]  第10章早期编译优化
-    - [ ]  第11章晚期编译优化
-    - [ ]  Java Senior Enginer项目中JVM总结
-  - [ ]  Java高并发第二次阅读
-    - [ ]  Java高并发第二次阅读
 
 - [ ]  左神算法总结
   - [X]  排序算法（插入、冒泡、选择）
